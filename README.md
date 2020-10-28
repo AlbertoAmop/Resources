@@ -3,9 +3,8 @@
 Interesting learning and entertainment resources.
 <br /><br />
 
-<details>
-  <summary>:notebook_with_decorative_cover: Readings</summary>
-<!--START_SECTION:activity-->
+## :notebook_with_decorative_cover: Articles and Papers
+  
 - [Distill.pub](https://distill.pub/) :uk:
 
 - [The Gradient](https://thegradient.pub/) :uk:
@@ -15,8 +14,6 @@ Interesting learning and entertainment resources.
 - [GetPocket](https://getpocket.com/explore/deep-learning) :uk: 
 
 - [Papers with code](https://paperswithcode.com/) :uk:
-<!--END_SECTION:activity-->
-</details>
 
 <br /><br />
 
@@ -65,6 +62,8 @@ Interesting learning and entertainment resources.
 - [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) :uk:
 
 - [Carykh](https://www.youtube.com/user/carykh) :uk:
+
+- [Machine Learning with Phil](https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw)
 
 - [DotCSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)  :es:
 
