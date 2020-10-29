@@ -15,7 +15,7 @@ Interesting learning and entertainment resources.
 
 - [Papers with code](https://paperswithcode.com/) :uk:
 
-<br /><br />
+<br />
 
 ##  :book:  Books
 
@@ -29,7 +29,7 @@ Interesting learning and entertainment resources.
 
 [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2018jan1.pdf) :uk:
 
-<br /><br />
+<br />
 
 ## :school: Courses
 
@@ -39,7 +39,7 @@ Interesting learning and entertainment resources.
 
 - [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning?) :uk:
 
-<br /><br />
+<br />
 
 ## :headphones: Podcasts
 
@@ -51,7 +51,7 @@ Interesting learning and entertainment resources.
 
 - [Software 2.0](https://open.spotify.com/show/6nUgq0q9wVP6hMekW0dUqm) :uk:
 
-<br /><br />
+<br />
 
 ## <img align="left" height="32" width="32" hex="#FF0000" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> Youtube
 
@@ -63,19 +63,19 @@ Interesting learning and entertainment resources.
 
 - [Carykh](https://www.youtube.com/user/carykh) :uk:
 
-- [Machine Learning with Phil](https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw)
+- [Machine Learning with Phil](https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw) :uk:
 
 - [DotCSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)  :es:
 
 - [NotCSV](https://www.youtube.com/channel/UCOTko-zmnQTcOxSRdg5_uOQ/) :es:
 
-<br /><br />
+<br />
 
 ## <img align="left" height="32" width="32" hex="#FF0000" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" /> Twitch
 
 - [DotCsv](https://www.twitch.tv/dotcsv) :es:
 
-<br /><br />
+<br />
 
 ## <img align="left" height="32" width="32" hex="#FF0000" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" /> SubReddits
 
